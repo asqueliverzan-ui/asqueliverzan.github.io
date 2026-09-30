@@ -1,0 +1,640 @@
+{
+  "club": {
+    "name": "AS Queliverzan",
+    "city": "Brest",
+    "season": "2026-2027",
+    "affiliation": "560118",
+    "colors": "GRIS / NOIR",
+    "stadium": "Stade Université Bretagne Occidentale",
+    "surface": "Synthétique",
+    "logo": "https://s1.static-footeo.com/100/uploads/as-queliverzan/logo__76f385239.png"
+  },
+  "teams": [
+    {
+      "id": "A",
+      "name": "Équipe A",
+      "level": "D1",
+      "group": "Poule A",
+      "label": "Seniors A · D1"
+    },
+    {
+      "id": "B",
+      "name": "Équipe B",
+      "level": "D3",
+      "group": "Poule C",
+      "label": "Seniors B · D3"
+    },
+    {
+      "id": "F",
+      "name": "Futsal",
+      "level": "D1 Futsal",
+      "group": "Poule A",
+      "label": "Seniors Futsal · D1"
+    }
+  ],
+  "matches": [
+    {
+      "id": "A-20260823-CDF",
+      "team": "A",
+      "date": "2026-08-23",
+      "time": "15:00",
+      "competition": "Coupe de France",
+      "home": "Brest Bergot PL 1",
+      "away": "AS Queliverzan A",
+      "hs": 0,
+      "as": 6,
+      "status": "played",
+      "source": "Footeo / sources publiques"
+    },
+    {
+      "id": "A-20260830-CDF",
+      "team": "A",
+      "date": "2026-08-30",
+      "time": "15:00",
+      "competition": "Coupe de France",
+      "home": "AS Queliverzan A",
+      "away": "Kersaint AS 1",
+      "hs": 0,
+      "as": 0,
+      "pens": "3-1",
+      "status": "played",
+      "source": "Footeo / sources publiques"
+    },
+    {
+      "id": "A-20260906-D1",
+      "team": "A",
+      "date": "2026-09-06",
+      "time": "15:30",
+      "competition": "D1 · J1",
+      "home": "AS Queliverzan A",
+      "away": "Brest AS 3",
+      "hs": 2,
+      "as": 2,
+      "status": "played",
+      "source": "Footeo / sources publiques"
+    },
+    {
+      "id": "A-20260913-CDF",
+      "team": "A",
+      "date": "2026-09-13",
+      "time": "15:00",
+      "competition": "Coupe de France · 3e tour",
+      "home": "AS Queliverzan A",
+      "away": "Santec AS 1",
+      "hs": 0,
+      "as": 1,
+      "status": "played",
+      "source": "Footeo / sources publiques"
+    },
+    {
+      "id": "A-20260920-D1",
+      "team": "A",
+      "date": "2026-09-20",
+      "time": "15:30",
+      "competition": "D1 · J2",
+      "home": "Plougonvelin US 1",
+      "away": "AS Queliverzan A",
+      "hs": 4,
+      "as": 1,
+      "status": "played",
+      "source": "Footeo / sources publiques"
+    },
+    {
+      "id": "A-20260927-CB",
+      "team": "A",
+      "date": "2026-09-27",
+      "time": "15:00",
+      "competition": "Coupe de Bretagne",
+      "home": "Brest Mahor AS 1",
+      "away": "AS Queliverzan A",
+      "hs": 5,
+      "as": 1,
+      "status": "played",
+      "source": "Footeo / sources publiques"
+    },
+    {
+      "id": "A-20261004-D1",
+      "team": "A",
+      "date": "2026-10-04",
+      "time": "15:30",
+      "competition": "D1 · J3",
+      "home": "AS Queliverzan A",
+      "away": "Gouesnou FC 1",
+      "status": "upcoming",
+      "source": "Calendrier publié"
+    },
+    {
+      "id": "A-20261018-D1",
+      "team": "A",
+      "date": "2026-10-18",
+      "time": "15:30",
+      "competition": "D1 · J4",
+      "home": "Guipavas Coat AL 2",
+      "away": "AS Queliverzan A",
+      "status": "upcoming",
+      "source": "Calendrier publié"
+    },
+    {
+      "id": "A-20261025-D1",
+      "team": "A",
+      "date": "2026-10-25",
+      "time": "15:30",
+      "competition": "D1 · J5",
+      "home": "AS Queliverzan A",
+      "away": "Brest Asptt 2",
+      "status": "upcoming",
+      "source": "Calendrier publié"
+    },
+    {
+      "id": "B-20260906-D3",
+      "team": "B",
+      "date": "2026-09-06",
+      "time": "13:30",
+      "competition": "D3 · J1",
+      "home": "AS Queliverzan B",
+      "away": "Brest PL Pil Rouge 2",
+      "hs": 2,
+      "as": 4,
+      "status": "played",
+      "source": "Footeo / sources publiques"
+    },
+    {
+      "id": "B-20260913-AM",
+      "team": "B",
+      "date": "2026-09-13",
+      "time": "12:15",
+      "competition": "Amical",
+      "home": "AS Queliverzan B",
+      "away": "Plouarzel ET 2",
+      "hs": 6,
+      "as": 0,
+      "status": "played",
+      "source": "Footeo / sources publiques"
+    },
+    {
+      "id": "B-20260920-D3",
+      "team": "B",
+      "date": "2026-09-20",
+      "time": "13:30",
+      "competition": "D3 · J2",
+      "home": "Bourg Blanc GAS 3",
+      "away": "AS Queliverzan B",
+      "hs": 2,
+      "as": 2,
+      "status": "played",
+      "source": "Footeo / sources publiques"
+    },
+    {
+      "id": "B-20260927-AM",
+      "team": "B",
+      "date": "2026-09-27",
+      "time": "12:30",
+      "competition": "Amical",
+      "home": "Brest Mahor AS 2",
+      "away": "AS Queliverzan B",
+      "hs": 3,
+      "as": 2,
+      "status": "played",
+      "source": "Footeo / sources publiques"
+    },
+    {
+      "id": "B-20261004-D3",
+      "team": "B",
+      "date": "2026-10-04",
+      "time": "13:30",
+      "competition": "D3 · J3",
+      "home": "AS Queliverzan B",
+      "away": "Gouesnou FC 3",
+      "status": "upcoming",
+      "source": "Calendrier publié"
+    },
+    {
+      "id": "B-20261018-D3",
+      "team": "B",
+      "date": "2026-10-18",
+      "time": "13:30",
+      "competition": "D3 · J4",
+      "home": "Guipavas Coat AL 4",
+      "away": "AS Queliverzan B",
+      "status": "upcoming",
+      "source": "Calendrier publié"
+    },
+    {
+      "id": "F-20260917-D1F",
+      "team": "F",
+      "date": "2026-09-17",
+      "time": "21:00",
+      "competition": "D1 Futsal",
+      "home": "Plouzané ACF 2",
+      "away": "AS Queliverzan Futsal",
+      "hs": 5,
+      "as": 8,
+      "status": "played",
+      "source": "Calendrier publié"
+    },
+    {
+      "id": "F-20260925-D1F",
+      "team": "F",
+      "date": "2026-09-25",
+      "time": "—",
+      "competition": "D1 Futsal",
+      "home": "Exempt",
+      "away": "AS Queliverzan Futsal",
+      "status": "exempt",
+      "source": "Calendrier publié"
+    },
+    {
+      "id": "F-20261012-D1F",
+      "team": "F",
+      "date": "2026-10-12",
+      "time": "20:30",
+      "competition": "D1 Futsal",
+      "home": "Guipavas Coat AL 1",
+      "away": "AS Queliverzan Futsal",
+      "status": "upcoming",
+      "source": "Calendrier publié"
+    },
+    {
+      "id": "F-20261022-D1F",
+      "team": "F",
+      "date": "2026-10-22",
+      "time": "21:00",
+      "competition": "D1 Futsal",
+      "home": "AS Queliverzan Futsal",
+      "away": "Stade Plabennecois 2",
+      "status": "upcoming",
+      "source": "Calendrier publié"
+    },
+    {
+      "id": "F-20261105-D1F",
+      "team": "F",
+      "date": "2026-11-05",
+      "time": "20:30",
+      "competition": "D1 Futsal",
+      "home": "Guilers AM S 1",
+      "away": "AS Queliverzan Futsal",
+      "status": "upcoming",
+      "source": "Calendrier publié"
+    }
+  ],
+  "players": [
+    {
+      "id": "QEL-001",
+      "name": "Oussama Bentakhou",
+      "teams": [
+        "A"
+      ],
+      "status": "active",
+      "role": "Gardien",
+      "joined": "2026"
+    },
+    {
+      "id": "QEL-002",
+      "name": "Kalvin Le Duff",
+      "teams": [
+        "A",
+        "B"
+      ],
+      "status": "active",
+      "role": "Défenseur",
+      "joined": "2025"
+    },
+    {
+      "id": "QEL-003",
+      "name": "Evan Mallard",
+      "teams": [
+        "A"
+      ],
+      "status": "active",
+      "role": "Défenseur",
+      "joined": "2026"
+    },
+    {
+      "id": "QEL-004",
+      "name": "Kymlaan Nabal",
+      "teams": [
+        "A"
+      ],
+      "status": "active",
+      "role": "Défenseur",
+      "joined": "2026"
+    },
+    {
+      "id": "QEL-005",
+      "name": "Mohamed Eric Conde",
+      "teams": [
+        "A"
+      ],
+      "status": "active",
+      "role": "Milieu",
+      "joined": "2026"
+    },
+    {
+      "id": "QEL-006",
+      "name": "Ousmane Conde",
+      "teams": [
+        "A"
+      ],
+      "status": "active",
+      "role": "Milieu",
+      "joined": "2026"
+    },
+    {
+      "id": "QEL-007",
+      "name": "Gaya Kacel",
+      "teams": [
+        "A"
+      ],
+      "status": "active",
+      "role": "Milieu",
+      "joined": "2026"
+    },
+    {
+      "id": "QEL-008",
+      "name": "Maxime Lapointe-labarre",
+      "teams": [
+        "A",
+        "B"
+      ],
+      "status": "active",
+      "role": "Milieu",
+      "joined": "2025"
+    },
+    {
+      "id": "QEL-009",
+      "name": "Mohamed Louardi",
+      "teams": [
+        "A"
+      ],
+      "status": "active",
+      "role": "Milieu",
+      "joined": "2026"
+    },
+    {
+      "id": "QEL-010",
+      "name": "Renan Mallard",
+      "teams": [
+        "A"
+      ],
+      "status": "active",
+      "role": "Milieu",
+      "joined": "2026"
+    },
+    {
+      "id": "QEL-011",
+      "name": "Talla Ndoye",
+      "teams": [
+        "A",
+        "B"
+      ],
+      "status": "active",
+      "role": "Milieu",
+      "joined": "2025"
+    },
+    {
+      "id": "QEL-012",
+      "name": "Loïc Tudal",
+      "teams": [
+        "A"
+      ],
+      "status": "active",
+      "role": "Attaquant",
+      "joined": "2024"
+    },
+    {
+      "id": "QEL-013",
+      "name": "Mohaman Aboubakar Garba",
+      "teams": [
+        "A"
+      ],
+      "status": "active",
+      "role": "Attaquant",
+      "joined": "2026"
+    },
+    {
+      "id": "QEL-014",
+      "name": "Aimad Ait M'hamed",
+      "teams": [
+        "A",
+        "B"
+      ],
+      "status": "active",
+      "role": "Attaquant",
+      "joined": "2025"
+    },
+    {
+      "id": "QEL-015",
+      "name": "David Fotre",
+      "teams": [
+        "B"
+      ],
+      "status": "active",
+      "role": "Gardien",
+      "joined": "2026"
+    },
+    {
+      "id": "QEL-016",
+      "name": "Erwan Calvez",
+      "teams": [
+        "B"
+      ],
+      "status": "active",
+      "role": "Milieu",
+      "joined": "2026"
+    },
+    {
+      "id": "QEL-017",
+      "name": "Peerapan Rodmuang",
+      "teams": [
+        "A",
+        "B"
+      ],
+      "status": "active",
+      "role": "Milieu",
+      "joined": "2025"
+    },
+    {
+      "id": "QEL-018",
+      "name": "Dastyn Boguslwski",
+      "teams": [
+        "B"
+      ],
+      "status": "active",
+      "role": "Milieu",
+      "joined": "2026"
+    },
+    {
+      "id": "QEL-019",
+      "name": "Haitam Hartiti",
+      "teams": [
+        "B"
+      ],
+      "status": "active",
+      "role": "Milieu",
+      "joined": "2026"
+    },
+    {
+      "id": "QEL-020",
+      "name": "Jérémy Robin",
+      "teams": [
+        "B"
+      ],
+      "status": "active",
+      "role": "Milieu",
+      "joined": "2026"
+    },
+    {
+      "id": "QEL-021",
+      "name": "Rayan Daniel",
+      "teams": [
+        "A",
+        "B",
+        "F"
+      ],
+      "status": "active",
+      "role": "Attaquant",
+      "joined": "2024"
+    },
+    {
+      "id": "QEL-022",
+      "name": "Sory Ibrahima Diawara",
+      "teams": [
+        "B"
+      ],
+      "status": "active",
+      "role": "Attaquant",
+      "joined": "2025"
+    },
+    {
+      "id": "QEL-023",
+      "name": "Maël Dipa",
+      "teams": [
+        "B"
+      ],
+      "status": "active",
+      "role": "Attaquant",
+      "joined": "2026"
+    },
+    {
+      "id": "QEL-024",
+      "name": "Kelety Kante",
+      "teams": [
+        "B"
+      ],
+      "status": "active",
+      "role": "Attaquant",
+      "joined": "2025"
+    },
+    {
+      "id": "QEL-025",
+      "name": "Betty Mampassi-Tsassa",
+      "teams": [
+        "B"
+      ],
+      "status": "active",
+      "role": "Attaquant",
+      "joined": "2025"
+    },
+    {
+      "id": "QEL-026",
+      "name": "Jurgen Petro",
+      "teams": [
+        "B"
+      ],
+      "status": "active",
+      "role": "Attaquant",
+      "joined": "2025"
+    },
+    {
+      "id": "QEL-027",
+      "name": "Vitalii Zozulia",
+      "teams": [
+        "B"
+      ],
+      "status": "active",
+      "role": "Attaquant",
+      "joined": "2026"
+    },
+    {
+      "id": "QEL-028",
+      "name": "Adrien Rohel",
+      "teams": [
+        "B"
+      ],
+      "status": "active",
+      "role": "Attaquant",
+      "joined": "2026"
+    },
+    {
+      "id": "QEL-029",
+      "name": "Killian Le Bec",
+      "teams": [
+        "B"
+      ],
+      "status": "active",
+      "role": "Attaquant",
+      "joined": "2026"
+    },
+    {
+      "id": "QEL-030",
+      "name": "Ancien joueur exemple",
+      "teams": [
+        "A"
+      ],
+      "status": "season-end",
+      "role": "—",
+      "joined": "2024",
+      "left": "2026",
+      "note": "Exemple d'archivage en fin de saison"
+    }
+  ],
+  "partners": [
+    {
+      "name": "POPEYES",
+      "type": "Partenaire actif",
+      "note": "Soutien au renouvellement du jeu de maillots de l'équipe première."
+    },
+    {
+      "name": "INTERSPORT",
+      "type": "Partenaire actif",
+      "note": "Équipement et accompagnement du club."
+    },
+    {
+      "name": "Conseil Départemental du Finistère",
+      "type": "Partenaire actif",
+      "note": "Soutien institutionnel."
+    }
+  ],
+  "historicalStats": [
+    {
+      "season": "2025-2026",
+      "team": "A",
+      "competition": "D2",
+      "matches": 22,
+      "points": 45,
+      "goalsFor": 68,
+      "goalsAgainst": 33,
+      "note": "Données Footeo historiques"
+    },
+    {
+      "season": "2025-2026",
+      "team": "B",
+      "competition": "D3",
+      "matches": 20,
+      "points": 32,
+      "goalsFor": 68,
+      "goalsAgainst": 58,
+      "note": "Données Footeo historiques"
+    },
+    {
+      "season": "2024-2025",
+      "team": "B",
+      "competition": "D3",
+      "matches": 20,
+      "points": 32,
+      "goalsFor": 68,
+      "goalsAgainst": 58,
+      "note": "Exemple de structure historique — à compléter depuis Footeo"
+    }
+  ]
+}
